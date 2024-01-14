@@ -24,7 +24,6 @@
   "G\nScroll Lock\n+\n=",
   {"fa": [3,3,2,2],"t":"#000000\n#ff00ff\n#ffff00\n#00ffff\n#ffffff"},
   "M\nE\n\nCaps Lock",
-  {"n":true},
   "N\n⏮\n⬅\n◀\nShift",
   "E\n<i class='fa fa-volume-down'></i>\n⬇\n▼\nCtrl",
   "I\n<i class='fa fa-volume-up'></i>\n⬆\n▲\nAlt",
