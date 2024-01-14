@@ -23,11 +23,11 @@
   {"f": 2,"fa":[3,2,3,3]},
   "G\nScroll Lock\n+\n=",
   {"fa": [3,3,2,2],"t":"#000000\n#ff00ff\n#ffff00\n#00ffff\n#ffffff"},
-  "M\nE\n\nCaps Lock",
-  "N\n⏮\n⬅\n◀\nShift",
-  "E\n🔉\n⬇\n▼\nCtrl",
-  "I\n🔊\n⬆\n▲\nAlt",
-  "O\n⏭\n➡\n▶\nSuper"
+  "J\nR\nRedo\nRedo",
+"N",
+"E",
+"I",
+"O"
 ],
 [
 "Z",
