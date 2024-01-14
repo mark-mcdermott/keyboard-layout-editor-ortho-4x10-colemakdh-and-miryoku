@@ -1,0 +1,54 @@
+[
+  [
+    { 
+      "c": "#888888",
+      "t": "#000000\n#ff0000\n#00ff00\n#0000ff\n#ffffff",
+      "fa": [0,0,2]
+    },
+    "Q\nF12\n{\n[\nBoot",
+    "W\nF7\n&\n7\nTap",
+    "F\nF8\n*\n8\nExtra",
+    "P\nF9\n(\n9\nBase",
+    "B\nPrtScn <i>SysRq</i>\n}\n]",
+    "J\nR\nRedo\nRedo",
+    "L\nM\nPaste\nPaste\nBase",
+    "U\nH\nCopy\nCopy\nExtra",
+    "Y\nS\nCut\nCut\nTap",
+    "/\n3\n⇨\nEnd\nButton"
+  ],
+[
+  "A",
+  "R",
+  "S",
+  "T",
+  "G",
+  "M",
+  "N",
+  "E",
+  "I",
+  "O"
+],
+[
+  "Z",
+  "X",
+  "C",
+  "D",
+  "V",
+  "K",
+  "H",
+  ",",
+  ".",
+  "/"
+],
+[
+  "",
+  "",
+  "ESC",
+  "SPC",
+  "TAB",
+  "ENT",
+  "BKSP",
+  "DEL",
+  "",
+  ""
+]
