@@ -25,12 +25,12 @@
   {"fa": [3,3,2,2],"t":"#000000\n#ff00ff\n#ffff00\n#00ffff\n#ffffff"},
   "M\nE\n\nCaps Lock",
   "N\n⏮\n⬅\n◀\nShift",
-  "E\n<i class='fa fa-volume-down'></i>\n⬇\n▼\nCtrl",
-  "I\n<i class='fa fa-volume-up'></i>\n⬆\n▲\nAlt",
+  "E\n🔉\n⬇\n▼\nCtrl",
+  "I\n🔊\n⬆\n▲\nAlt",
   "O\n⏭\n➡\n▶\nSuper"
 ],
 [
-  {"fa":[3,3,3,3],"t":"#000000\n#ff0000\n#00ff00\n#0000ff\n#C0C0C0"},
+  {"fa":[3,3,3,3],"t":"#000000\n#ff0000\n#00ff00\n#0000ff"},
   "Z\nF10\n~\n`\nButton",
   "X\nF1\n!\n1",
   "C\nF2\n@\n2\nOpp",
@@ -42,24 +42,17 @@
   "H\n0\n⇦\nHome\nCur",
   ",\n1\n⇩\nPage Down\nOpp",
   ".\n2\n⇧\nPage Up",
-  {"t":"#000000\n#ff00ff\n#ffff00\n#00ffff\n#C0C0C0"},
   "/\n3\n⇨\nEnd\nButton"
 ],
 [
 "",
 "",
-{"fa":[3,7,3,3],"t":"#000000\n#ff0000\n#00ff00\n#0000ff\n#ff00ff"},
 "Esc\n≣\n(\n.\nMedia",
-{"fa":[3,3,3,3],"t":"#000000\n#ff0000\n#00ff00\n#0000ff\n#00ffff"},
 "Spc\nSpc\n)\n0\nNav",
-{"t":"#000000\n#ff0000\n#00ff00\n#0000ff\n#ffff00"},
-"&#8677;\n&#8677;\n_\n-\nMouse",
-{"t":"#000000\n#ff00ff\n#ffff00\n#00ffff\n#00ff00"},
+"⭾\n⭾\n_\n-\nMouse",
 "↵\n◼\nR\n↵\nSym",
-{"t":"#000000\n#ff00ff\n#ffff00\n#00ffff\n#0000ff"},
 "⌫\n⏯\nL\n⌫\nNum",
-{"t": "#000000\n#ff00ff\n#ffff00\n#00ffff\n#ff0000"},
-"⌦\n<i class='fa fa-volume-off'></i>\nM\n⌦\nFun",
+"⌦\n🔇\nM\n⌦\nFun"
 "",
 ""
 ]

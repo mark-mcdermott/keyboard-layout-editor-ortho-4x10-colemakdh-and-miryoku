@@ -30,7 +30,7 @@
   "O\n⏭\n➡\n▶\nSuper"
 ],
 [
-  {"fa":[3,3,3,3],"t":"#000000\n#ff0000\n#00ff00\n#0000ff\n#C0C0C0"},
+  {"fa":[3,3,3,3],"t":"#000000\n#ff0000\n#00ff00\n#0000ff"},
   "Z\nF10\n~\n`\nButton",
   "X\nF1\n!\n1",
   "C\nF2\n@\n2\nOpp",
@@ -42,7 +42,6 @@
   "H\n0\n⇦\nHome\nCur",
   ",\n1\n⇩\nPage Down\nOpp",
   ".\n2\n⇧\nPage Up",
-  {"t":"#000000\n#ff00ff\n#ffff00\n#00ffff\n#C0C0C0"},
   "/\n3\n⇨\nEnd\nButton"
 ],
 [
@@ -50,9 +49,9 @@
 "",
 {"fa":[3,7,3,3],"t":"#000000\n#ff0000\n#00ff00\n#0000ff\n#ff00ff"},
 "Esc\n≣\n(\n.\nMedia",
-{"fa":[3,3,3,3],"t":"#000000\n#ff0000\n#00ff00\n#0000ff\n#00ffff"},
+{"fa":[3,4,3,3]},
 "Spc\nSpc\n)\n0\nNav",
-{"t":"#000000\n#ff0000\n#00ff00\n#0000ff\n#ffff00"},
+{"fa":[3,3,3,3],"t":"#000000\n#ff0000\n#00ff00\n#0000ff\n#ffff00"},
 "&#8677;\n&#8677;\n_\n-\nMouse",
 {"t":"#000000\n#ff00ff\n#ffff00\n#00ffff\n#00ff00"},
 "↵\n◼\nR\n↵\nSym",
