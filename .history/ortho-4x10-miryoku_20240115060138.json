@@ -1,5 +1,7 @@
 [
-  {"fa":[3,3,3,3],"c":"#888888","t":"#000000\n#ff0000\n#00ff00\n#0000ff\n#ffffff"},
+  {"x":0,"y":0.25,"w":4,"f":4,"d":true},
+  "<b>4x10 Miryoku (Bancouver40)</b>",
+  {"x":-4,"y":1,"fa":[3,3,3,3],"c":"#888888","t":"#000000\n#ff0000\n#00ff00\n#0000ff\n#ffffff"},
   "Q\nF12\n{\n[\nBoot",
   "W\nF7\n&\n7\nTap",
   "F\nF8\n*\n8\nExtra",
