@@ -1,0 +1,44 @@
+[
+  {"w":4,"x":0,"y":0.25,"f":4,"d":true},
+  "<b>4x6 JunePad (For Fortnite)</b>",
+  {"y": 1,x:-4,"fa":[3,3,3,3],"c":"#888888","t":"#000000\n#444444"},
+  "0\nF1\n🔫\n🕺",
+  "1\nF1\n🔫\n🕺",
+  "2\nF2\n🔫\n🕺",
+  "3\nF3\n🔫\n🕺",
+  "4\nF4\n🔫\n🕺",
+  "5\nF5\n🔫\n🕺"
+],
+[
+  {"fa":[3,3,1,1],"t":"#000000\n#00ffff\n#00ffff"},
+  "Q\n\nwall",
+  {"fa":[3,3,3,1],"t":"#000000\n#00ffff\n#00ff00"},
+  "W\n\n<i class='fa fa-chevron-up'></i>",
+  {"fa":[3,3,1,1],"t":"#000000\n#00ffff\n#00ffff"},
+  "E\n\nramp",
+  "R\n\nreload",
+  "T\n\nmats",
+  "Y"
+],
+[
+  {"fa":[3,3,3],"t":"#000000\n#ff0000\n#00ff00"},
+  "A\n\n<i class='fa fa-chevron-left'></i>",
+  "S\n\n<i class='fa fa-chevron-down'></i>",
+  "D\n\n<i class='fa fa-chevron-right'></i>",
+  {"fa":[3,3,1,3],"t":"#000000\n#444444\n#00ffff\n#00ffff"},
+  "F\nM\nrun\n🕺",
+  {"fa":[3,3,1,1]},
+  "G\n?\ninv.\nedit",
+  "H"
+],
+[
+  {"t":"#000000\n#00ffff\n#00ffff"},
+  "Z\n\ncrouch",
+  {"fa":[3,4,2,3]},
+  "Esc\n\n<i class='mss mss-Unicode-Command-3'></i>",
+  {"fa":[3,3,1,1],"t":"#000000\n#444444\n#00ffff,\n#00ffff"},
+  "C\nL\nrep.\ninv.",
+  {"t":"#000000\n#00ffff\n#00ffff"},
+  "7","&#9251;\n\njump",
+  "B"
+]
